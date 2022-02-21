@@ -1,5 +1,7 @@
 Checking string for specific command and showing the response in output
 
+-----------------------------------------------------------------------
+
 Command             Response
 
 ..JUMP              ..jumping from param1,param2 to param3,param4
@@ -11,6 +13,8 @@ Command             Response
 ..RETURN	          ..returning to overlord
 
 ..CHANGE            ..changing param1 to param2
+
+-----------------------------------------------------------------------
 
 Input 1:
 
