@@ -2,17 +2,17 @@ Checking string for specific command and showing the response in output
 
 -----------------------------------------------------------------------
 
-Command             __Response
+Command             ...Response
 
-..JUMP              ..jumping from param1,param2 to param3,param4
+..JUMP              ...jumping from param1,param2 to param3,param4
 
-..CAMERA            ..camera is turned param1
+..CAMERA            ...camera is turned param1
 
-..PWR_SAVE          ..power save mode turned param1
+..PWR_SAVE          ...power save mode turned param1
 
-..RETURN	          ..returning to overlord
+..RETURN	          ...returning to overlord
 
-..CHANGE            ..changing param1 to param2
+..CHANGE            ...changing param1 to param2
 
 -----------------------------------------------------------------------
 
