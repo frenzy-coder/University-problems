@@ -10,6 +10,6 @@ Input:
 
 0 0 0 30 0
 
-output:
+Output:
 
 212.5
