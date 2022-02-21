@@ -2,7 +2,7 @@ Showing if parity is considered in the binary matrix if not, showing the address
 
 Parity in binary matrix: if the total of each column and each row is even the matrix considered parity
 
-input:
+Input:
 
 Enter n(n.n binary matrix):
 
