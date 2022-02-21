@@ -1,6 +1,6 @@
 Finding mines in mine sweeper game
 
-input:
+Input:
 
 4 4
 
@@ -14,7 +14,7 @@ input:
 
 0 0 (to end giving input)
 
-output:
+Output:
 
 Field #1:
 
