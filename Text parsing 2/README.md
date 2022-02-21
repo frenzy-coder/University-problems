@@ -2,7 +2,7 @@ Checking string for specific command and showing the response in output
 
 -----------------------------------------------------------------------
 
-Command             Response
+Command             __Response
 
 ..JUMP              ..jumping from param1,param2 to param3,param4
 
