@@ -6,3 +6,5 @@ For extra gas quota cost (60 liter >) = 3000 per liter
 Inputs.
 Amount of gas fuel to consume for the next month.
 Ammount of gas quota remained in gass fuel credit card.
+fsfsdfsdf
+sdfsdfsdf
