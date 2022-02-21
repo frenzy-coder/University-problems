@@ -5,4 +5,5 @@ Parity in binary matrix: if the total of each column and each row is even the ma
 input:
 
 Enter n(n.n binary matrix):
+
 Enter n.n binary matrix:
